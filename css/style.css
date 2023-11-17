@@ -1,0 +1,13 @@
+.bg-box {
+    background-color: green;
+    width: 1500px;
+    height: 850px;
+    background-image: url('../image/dom_3.jpg'),
+     url('../image/grass_5.png'), 
+     url('../image/lampa_2.png'), 
+     url('../image/Ёжик_4.png'),
+     url('../image/ponchick_1.png');
+    background-repeat: no-repeat, repeat-x, repeat-x, repeat-y, repeat-y;
+    background-position: center, bottom, top, left, right;
+    background-size: auto, 400px, 60px, 50px, 50px;
+}
